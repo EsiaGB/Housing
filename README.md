@@ -1,8 +1,7 @@
 # 📚 Housing
 
  1. [Data cleaning/exploring](#data-cleaning/exploring)
- 2. [Dashboard](#dashboard)
-
+    
 
 ## Data cleaning/exploring 
 ### Creating copy of the dataset
