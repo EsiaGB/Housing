@@ -7,10 +7,10 @@
 ### Creating copy of the dataset
 
 ```sql
-select * from `Nashville Housing Data for Data Cleaning.xlsx - Sheet1`;
+select * from `Nashville Housing Data.xlsx`;
 
 
-ALTER TABLE `Nashville Housing Data for Data Cleaning.xlsx - Sheet1`
+ALTER TABLE `Nashville Housing Data.xlsx`
 RENAME TO housing_data;
 
 Select * from housing_data;
